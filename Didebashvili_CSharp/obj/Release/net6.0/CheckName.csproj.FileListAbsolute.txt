@@ -1,0 +1,15 @@
+C:\Users\User\DidebashviliCSharp\Didebashvili_CSharp\bin\Release\net6.0\CheckName.exe
+C:\Users\User\DidebashviliCSharp\Didebashvili_CSharp\bin\Release\net6.0\CheckName.deps.json
+C:\Users\User\DidebashviliCSharp\Didebashvili_CSharp\bin\Release\net6.0\CheckName.runtimeconfig.json
+C:\Users\User\DidebashviliCSharp\Didebashvili_CSharp\bin\Release\net6.0\CheckName.dll
+C:\Users\User\DidebashviliCSharp\Didebashvili_CSharp\bin\Release\net6.0\CheckName.pdb
+C:\Users\User\DidebashviliCSharp\Didebashvili_CSharp\obj\Release\net6.0\CheckName.csproj.AssemblyReference.cache
+C:\Users\User\DidebashviliCSharp\Didebashvili_CSharp\obj\Release\net6.0\CheckName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\DidebashviliCSharp\Didebashvili_CSharp\obj\Release\net6.0\CheckName.AssemblyInfoInputs.cache
+C:\Users\User\DidebashviliCSharp\Didebashvili_CSharp\obj\Release\net6.0\CheckName.AssemblyInfo.cs
+C:\Users\User\DidebashviliCSharp\Didebashvili_CSharp\obj\Release\net6.0\CheckName.csproj.CoreCompileInputs.cache
+C:\Users\User\DidebashviliCSharp\Didebashvili_CSharp\obj\Release\net6.0\CheckName.dll
+C:\Users\User\DidebashviliCSharp\Didebashvili_CSharp\obj\Release\net6.0\refint\CheckName.dll
+C:\Users\User\DidebashviliCSharp\Didebashvili_CSharp\obj\Release\net6.0\CheckName.pdb
+C:\Users\User\DidebashviliCSharp\Didebashvili_CSharp\obj\Release\net6.0\CheckName.genruntimeconfig.cache
+C:\Users\User\DidebashviliCSharp\Didebashvili_CSharp\obj\Release\net6.0\ref\CheckName.dll

@@ -1,0 +1,15 @@
+C:\Users\User\DidebashviliCSharp\MoreThanSeven\bin\Release\net6.0\MoreThanSeven.exe
+C:\Users\User\DidebashviliCSharp\MoreThanSeven\bin\Release\net6.0\MoreThanSeven.deps.json
+C:\Users\User\DidebashviliCSharp\MoreThanSeven\bin\Release\net6.0\MoreThanSeven.runtimeconfig.json
+C:\Users\User\DidebashviliCSharp\MoreThanSeven\bin\Release\net6.0\MoreThanSeven.dll
+C:\Users\User\DidebashviliCSharp\MoreThanSeven\bin\Release\net6.0\MoreThanSeven.pdb
+C:\Users\User\DidebashviliCSharp\MoreThanSeven\obj\Release\net6.0\MoreThanSeven.csproj.AssemblyReference.cache
+C:\Users\User\DidebashviliCSharp\MoreThanSeven\obj\Release\net6.0\MoreThanSeven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\DidebashviliCSharp\MoreThanSeven\obj\Release\net6.0\MoreThanSeven.AssemblyInfoInputs.cache
+C:\Users\User\DidebashviliCSharp\MoreThanSeven\obj\Release\net6.0\MoreThanSeven.AssemblyInfo.cs
+C:\Users\User\DidebashviliCSharp\MoreThanSeven\obj\Release\net6.0\MoreThanSeven.csproj.CoreCompileInputs.cache
+C:\Users\User\DidebashviliCSharp\MoreThanSeven\obj\Release\net6.0\MoreThanSeven.dll
+C:\Users\User\DidebashviliCSharp\MoreThanSeven\obj\Release\net6.0\refint\MoreThanSeven.dll
+C:\Users\User\DidebashviliCSharp\MoreThanSeven\obj\Release\net6.0\MoreThanSeven.pdb
+C:\Users\User\DidebashviliCSharp\MoreThanSeven\obj\Release\net6.0\MoreThanSeven.genruntimeconfig.cache
+C:\Users\User\DidebashviliCSharp\MoreThanSeven\obj\Release\net6.0\ref\MoreThanSeven.dll

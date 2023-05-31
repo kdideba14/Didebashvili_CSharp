@@ -1,0 +1,2 @@
+The following bracket sequence [((())()(())]] is wrong, because correct bracket sequence should contain matching pairs of opening and closing brackets in the correct order.
+In this case, the closing brackets "]]" are extra to match the opening "[" bracket. To make it a correct, we should remove the extra closing bracket or add a closing bracket at the end. For example, the corrected bracket sequence could be [((())()(()))] or [[((())()(()))]].
